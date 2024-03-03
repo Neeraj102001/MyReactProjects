@@ -3,8 +3,6 @@
 # five-Day Weather Forecast
 A simple application to display five-day weather forecast using the OpenWeatherMap API. Built on top of my recently created [React-Redux-Sass Starter Kit](https://github.com/Gigacore/React-Redux-Sass-Starter).
 
-### Demo
-https://www.gigacore.in/demos/react-weather-forecast/
 
 ## Pre-requisites
 * Node.js 9.8.0 and above
@@ -70,4 +68,4 @@ npm run test
 * Jest + Enzyme
 
 #### The MIT License (MIT)
-MIT © 2018 Santhosh Sundar
+MIT © 2024 Neeraj Yadav
