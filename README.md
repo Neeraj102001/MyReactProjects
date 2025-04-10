@@ -1,9 +1,4 @@
-Here’s a clean and professional `README.md` file for your **Employee Management System**, including the uploaded screenshots:
-
----
-
-```markdown
-# 🧑‍💼 Employee Management System
+## 🧑‍💼 Employee Management System
 
 A simple and secure Employee Management System that allows administrators to perform essential operations such as adding, editing, and deleting employee records through a user-friendly dashboard.
 
@@ -49,7 +44,7 @@ A simple and secure Employee Management System that allows administrators to per
    git clone https://github.com/Neeraj102001/employee-management-system.git
    ```
 
-2. Add screenshots to the `/screenshots` folder.
+2. Added screenshots to the `/screenshots` folder.
 
 3. Install dependencies and run the frontend and backend servers as per your tech stack.
 
