@@ -32,8 +32,7 @@ A simple and secure Employee Management System that allows administrators to per
 
 - **Frontend:** HTML, CSS, JavaScript (or React if applicable)
 - **Backend:** Node.js / (your backend stack here)
-- **Database:**  JSON (whichever you're using)
-
+- **Database:**  JSON 
 
 ```
 
