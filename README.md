@@ -19,19 +19,19 @@ A simple and secure Employee Management System that allows administrators to per
 ## 🖼️ Screenshots
 
 ### 🔐 Admin Login
-![Admin Login](/screenshots/AdminLogin.PNG)
+![Admin Login](screenshots/AdminLogin.PNG)
 
 ### 🏠 Admin Dashboard
-![Admin Dashboard](/screenshots/AdminDashboard.PNG)
+![Admin Dashboard](screenshots/AdminDashboard.PNG)
 
 ### ➕ Add Employee
-![Add Employee](/screenshots/AddEmp.PNG)
+![Add Employee](screenshots/AddEmp.PNG)
 
 ### ✏️ Edit Employee
-![Edit Employee](/screenshots/EditEmp.PNG)
+![Edit Employee](screenshots/EditEmp.PNG)
 
 ### ❌ Delete Employee
-![Delete Employee](/screenshots/DeleteEmp.PNG)
+![Delete Employee](screenshots/DeleteEmp.PNG)
 
 ## 🧰 Tech Stack
 
@@ -70,7 +70,3 @@ A simple and secure Employee Management System that allows administrators to per
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-```
