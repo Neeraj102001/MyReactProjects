@@ -19,49 +19,34 @@ A simple and secure Employee Management System that allows administrators to per
 ## 🖼️ Screenshots
 
 ### 🔐 Admin Login
-![Admin Login](./screenshots/AdminLogin.PNG)
+![Admin Login](/screenshots/AdminLogin.PNG)
 
 ### 🏠 Admin Dashboard
-![Admin Dashboard](./screenshots/AdminDashboard.PNG)
+![Admin Dashboard](/screenshots/AdminDashboard.PNG)
 
 ### ➕ Add Employee
-![Add Employee](./screenshots/AddEmp.PNG)
+![Add Employee](/screenshots/AddEmp.PNG)
 
 ### ✏️ Edit Employee
-![Edit Employee](./screenshots/EditEmp.PNG)
+![Edit Employee](/screenshots/EditEmp.PNG)
 
 ### ❌ Delete Employee
-![Delete Employee](./screenshots/DeleteEmp.PNG)
+![Delete Employee](/screenshots/DeleteEmp.PNG)
 
 ## 🧰 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript (or React if applicable)
-- **Backend:** ASP.NET Core / Node.js / (your backend stack here)
-- **Database:** Oracle / SQL Server / MongoDB (whichever you're using)
+- **Backend:** Node.js / (your backend stack here)
+- **Database:**  JSON (whichever you're using)
 
-## 📁 Project Structure
 
 ```
-EmployeeManagement/
-├── backend/
-├── frontend/
-├── screenshots/
-│   ├── AdminLogin.PNG
-│   ├── AdminDashboard.PNG
-│   ├── AddEmp.PNG
-│   ├── EditEmp.PNG
-│   └── DeleteEmp.PNG
-├── README.md
-└── ...
-```
-
-> Make sure to place all the `.PNG` files inside the `screenshots` directory.
 
 ## 🛠️ Setup Instructions
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/employee-management-system.git
+   git clone https://github.com/Neeraj102001/employee-management-system.git
    ```
 
 2. Add screenshots to the `/screenshots` folder.
@@ -89,11 +74,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ```
-
-### ✅ Next Steps:
-
-1. Create a `screenshots` folder in your project root.
-2. Move all your `.PNG` images into it.
-3. Save the above content in a `README.md` file at the root of your project.
-
-If you'd like me to help generate a downloadable `README.md` file or update your project folder structure, just let me know!
